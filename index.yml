@@ -1,0 +1,31 @@
+title: Automated Diagnosis for Breast Cancer Tissue Type
+Authors: Gautham Nandhakumar, Saiprasad Sankaranarayanan, Jayanthan Ramesh Vellore
+Abstract: The correct diagnosis of breast cancer tissue type is one of the major problems
+  in the medical field. From the literature it has been found that different pattern
+  recognition techniques can help them to improve in this domain. Implementing automated
+  diagnostic systems for breast cancer detection will be very beneficial for the doctors.
+  The major objective of the paper is to create a breast cancer detection system that
+  can be used by everyone. Breast cancer tissue type can be classified into Benign
+  or Malignant based on 9 unique component scores. In our system, we use a PHP to
+  create a web interface that collects these nine scores. The web interface is linked
+  with MATLAB program that implements neural network based diagnostic system which
+  is the backend of the project. Based on the nine scores implemented with the NN,
+  the system calcualtes whether the tissue type is B or M. Existing data can also
+  be viewed by the user when he/she inputs the sample number. This is done by integrating
+  php and sqlite through matlab.
+id: "118"
+dir: D:/ahmet/course/bcomp2/proj/20171/SaiprasadJayanthanGautham
+presentation: ~
+lastload: ~
+tag: advbcomp
+author: ~
+abstract: ~
+thumb: thumb.png
+report: Report.docx
+term: "20171"
+hide: ~
+topdirid: "16"
+owner: ~
+tweet: ~
+score: ~
+...

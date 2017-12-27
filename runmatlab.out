@@ -1,0 +1,9 @@
+{To use 'patternnet', the following product must be licensed, installed, and enabled:
+  <a href="matlab:matlab.internal.language.introspective.showAddon('NN', 'patternnet');">Neural Network Toolbox</a>
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('classify_data', 'C:\Users\saiprasad1122\Dropbox\bmes550.projects\SaiprasadJayanthanGautham\classify_data.m', 11)" style="font-weight:bold">classify_data</a> (<a href="matlab: opentoline('C:\Users\saiprasad1122\Dropbox\bmes550.projects\SaiprasadJayanthanGautham\classify_data.m',11,0)">line 11</a>)
+net = patternnet(hiddenLayerSize, trainFcn);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('cancer_data', 'C:\Users\saiprasad1122\Dropbox\bmes550.projects\SaiprasadJayanthanGautham\cancer_data.m', 26)" style="font-weight:bold">cancer_data</a> (<a href="matlab: opentoline('C:\Users\saiprasad1122\Dropbox\bmes550.projects\SaiprasadJayanthanGautham\cancer_data.m',26,0)">line 26</a>)
+[net,percentError,y]= classify_data(input,target);
+} 
